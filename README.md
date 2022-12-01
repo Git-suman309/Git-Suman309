@@ -24,7 +24,7 @@
 
 
 ## Skills and Experience
-* ⚛ React
+* ⚛ React  * ⚛ php
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
