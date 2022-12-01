@@ -24,9 +24,9 @@
 
 
 ## Skills and Tools
-* ⚛ Java  * ⚛ oops 
+* ⚛ GIT  * ⚛ git 
 * 📱 React Native
-* 💻 HTML, CSS, JS
+* 💻 JAVA , OOPS , MYSQL , HTML, CSS, JS
 
 
 
