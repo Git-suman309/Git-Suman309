@@ -24,7 +24,7 @@
 
 
 ## Skills and Tools
-* git 
+* Git Bash  
 * 💻 JAVA , OOPS , MYSQL , HTML, CSS, JS
 
 
