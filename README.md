@@ -23,8 +23,8 @@
  -->
 
 
-## Skills and Experience
-* ⚛ React  * ⚛ php
+## Skills and Tools
+* ⚛ Java  * ⚛ oops 
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
