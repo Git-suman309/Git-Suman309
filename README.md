@@ -24,9 +24,10 @@
 
 
 ## Skills and Tools
-*     Git Bash  
-*     
+*     Git Bash | IntelliJ IDEA | NetBeans IDE | MySQL Workbench 
 * 💻 JAVA , OOPS , MYSQL , HTML, CSS, JS
+* •	LeetCode •	Github •	GeeksforGeeks •	Hackerrank 
+
 
 
 <p><a href="https://www.buymeacoffee.com/onlinesuman309"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onlinesuman309" /></a></p><br><br>
