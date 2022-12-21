@@ -1,16 +1,18 @@
  
 <h1 align="center">Hi 👋, I'm SUMAN SAURABH</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=I'm+a+full+stack+developer;Enthusiast+in+design;Love+to+write+blogs;Good+in+problem+solving;Love+to+open+source)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full+stack+developer.;Love+to+learn+new+Tech.;Love+to+open+source.;Good+in+problem+solving." alt="Typing SVG" /></a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-suman309&label=Profile%20views&color=0e75b6&style=flat" alt="git-suman309" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-suman309" alt="git-suman309" /></a> </p> -->
-
-- 🌱 I’m currently learning **DSA | OOPS | SQL | PROJECT BUILDING |**
-
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
+- 🌱 I’m currently learning **Full Stack Development**
+-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F73333&width=435&lines=Learning...;DevOps+and+Cloud;OOPS;SQL;Linux;DSA+in+Java;Networking;DBMS" alt="Typing SVG" /></a>
 - 📫 How to reach me **onlinesumansaurabh@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny.**
+- 🤔 I’m looking for help with Backend & APIs
+- ⚡ Fun fact: Love to laugh loudly!
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
