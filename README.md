@@ -33,3 +33,5 @@
 
 
 <p><a href="https://www.buymeacoffee.com/onlinesuman309"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onlinesuman309" /></a></p><br><br>
+
+<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
