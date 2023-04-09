@@ -31,8 +31,8 @@
 * •	LeetCode •	Github •	GeeksforGeeks •	Hackerrank 
 
 
+<!-- 
+<p><a href="https://www.buymeacoffee.com/onlinesuman309"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onlinesuman309" /></a></p> -->
 
-<p><a href="https://www.buymeacoffee.com/onlinesuman309"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="onlinesuman309" /></a></p>
-<img src="https://camo.githubusercontent.com/55dde3c8888080a894ef43c560b1f4bd4bfd7f27a16ae2e257cf15444cb25ef2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616264616c6c61686162757365646f266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahabusedo&amp;layout=compact" style="max-width: 100%;">
 
 <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
